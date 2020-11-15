@@ -1,0 +1,13 @@
+C:\Projekti\WaySevenTasks\Task3\obj\Debug\netcoreapp3.1\Task3.csprojAssemblyReference.cache
+C:\Projekti\WaySevenTasks\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.CoreCompileInputs.cache
+C:\Projekti\WaySevenTasks\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfoInputs.cache
+C:\Projekti\WaySevenTasks\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfo.cs
+C:\Projekti\WaySevenTasks\Task3\bin\Debug\netcoreapp3.1\Task3.exe
+C:\Projekti\WaySevenTasks\Task3\bin\Debug\netcoreapp3.1\Task3.deps.json
+C:\Projekti\WaySevenTasks\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.json
+C:\Projekti\WaySevenTasks\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.dev.json
+C:\Projekti\WaySevenTasks\Task3\bin\Debug\netcoreapp3.1\Task3.dll
+C:\Projekti\WaySevenTasks\Task3\bin\Debug\netcoreapp3.1\Task3.pdb
+C:\Projekti\WaySevenTasks\Task3\obj\Debug\netcoreapp3.1\Task3.dll
+C:\Projekti\WaySevenTasks\Task3\obj\Debug\netcoreapp3.1\Task3.pdb
+C:\Projekti\WaySevenTasks\Task3\obj\Debug\netcoreapp3.1\Task3.genruntimeconfig.cache
